@@ -1,3 +1,4 @@
 猴子都懂的git指令
 add 把变更加入到索引中
 issue2 commit 记录索引状态
+issue3 的 commit
